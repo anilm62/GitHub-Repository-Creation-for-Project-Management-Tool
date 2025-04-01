@@ -1,0 +1,10 @@
+project-management-tool/
+├── .github/
+│   └── workflows/       # GitHub Actions workflows
+├── client/              # Frontend code
+├── server/              # Backend code
+├── docs/                # Documentation
+├── .gitignore
+├── README.md
+├── LICENSE
+└── package.json         # For Node.js projects
